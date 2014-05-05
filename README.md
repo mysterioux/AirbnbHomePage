@@ -1,6 +1,6 @@
 INTRODUCTION
 ------------
-This project is designed basically for learning purposes. It was created to facilitate the possiblities of development astonishing websites using minimum efforts.
+This project is designed basically for learning purposes. It was created to facilitate the possiblities of developing astonishing websites using minimum efforts. It was during the cause of my learning experience at codeacademy.com that I came to appreciate elegant teaching style with great simplicity to details that can even help my DAD at his age learn to code the web.  A tool set that happens to be the in-thing this days on this Jet-Age.
 
 ERRATA
 -------
