@@ -16,6 +16,10 @@ author: Emenike Christian
     text-transform: uppercase;
 }
 
+.nav li{
+    display: inline;
+}
+
 .jumbotron{
     height:500px;
     /*background-image: url('http://goo.gl/04j7Nn');*/
@@ -32,6 +36,11 @@ author: Emenike Christian
 .jumbotron p{
 	color: #fff;
 	font-size: 20px;
+}
+
+.jumbotron .container{
+	position: relative;
+	top: 100px;
 }
 .learn-more{
     background-color: #f7f7f7;
