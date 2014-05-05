@@ -4,3 +4,14 @@ css: main.css
 author: Emenike Christian
 */
 
+.nav a{
+    color: #5a5a5a;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 14px 10px 14px 10px; 
+    /*padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left:10px;
+    padding-right: 10px;*/
+    text-transform: uppercase;
+}
