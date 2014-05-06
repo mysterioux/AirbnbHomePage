@@ -15,7 +15,9 @@ author: Emenike Christian
     padding-right: 10px;*/
     text-transform: uppercase;
 }
-
+.nav a:hover{
+	color: #00b0ff;
+}
 .nav li{
     display: inline;
 }
@@ -42,8 +44,27 @@ author: Emenike Christian
 	position: relative;
 	top: 100px;
 }
+
+
+.neighborhood-guides{
+	background-color: #efefef;
+}
+
+.neighborhood-guides h2{
+   color:#393c3d;
+   font-size: 24px;
+}
+.neighborhood-guides p{
+    font-size: 15px;
+    margin-bottom: 13px;
+}
+
+.neighborhood-guides, .learn-more{
+	border-bottom: 2px solid #dbdbdb;
+}
 .learn-more{
     background-color: #f7f7f7;
+   
 }
 .learn-more h3{
     font-family: 'Shift', sans-serif;
@@ -53,6 +74,10 @@ author: Emenike Christian
 .learn-more a{
     color: #00b0ff;
 }
-footer img{
+.copyright{
+	margin: 5px;
+}
+.copyright img{
 	width: 30px;
 	height:30px;
+}
