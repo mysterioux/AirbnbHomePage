@@ -6,7 +6,7 @@ author: Emenike Christian
 
 .nav a{
     color: #5a5a5a;
-    font-size: 24px;
+    font-size: 11px;
     font-weight: bold;
     padding: 14px 10px 14px 10px; 
     /*padding-top: 14px;
@@ -53,3 +53,6 @@ author: Emenike Christian
 .learn-more a{
     color: #00b0ff;
 }
+footer img{
+	width: 30px;
+	height:30px;
